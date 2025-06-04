@@ -58,3 +58,4 @@
 2025-06-04 12:08:00.635 [warning] [Git][getBranch] No such branch: main
 2025-06-04 12:08:00.645 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
 2025-06-04 12:08:00.655 [info] > git status -z -uall [16ms]
+2025-06-04 12:18:51.300 [info] > git check-ignore -v -z --stdin [2ms]
