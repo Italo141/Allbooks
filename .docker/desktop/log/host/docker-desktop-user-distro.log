@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------->8
+[2025-05-27T19:43:29.423787259Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/italo.silva/.docker/contexts
+[2025-05-27T19:43:29.437405822Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/italo.silva/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/italo.silva/.docker/contexts
+-------------------------------------------------------------------------------->8
+[2025-05-27T19:43:30.369006050Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/italo.silva/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+[2025-05-27T19:43:30.789458171Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/italo.silva/.azure, linkPath = <HOME>/.azure
+-------------------------------------------------------------------------------->8
+[2025-05-27T19:43:31.234250183Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/italo.silva/.docker/features.json, linkPath = ~/.docker/features.json

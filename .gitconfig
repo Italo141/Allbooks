@@ -1,0 +1,5 @@
+[user]
+	name = itimbsb_221
+	email = itimbsb@gmail.com
+[credential "https://dev.azure.com"]
+	useHttpPath = true

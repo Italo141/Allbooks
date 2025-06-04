@@ -1,0 +1,18 @@
+2025-05-30 10:45:04.828 [info] 
+
+
+
+
+2025-05-30 10:45:04.838 [info] Extension host agent started.
+2025-05-30 10:45:04.880 [info] Started initializing default profile extensions in extensions installation folder. file:///home/itimbsb_221/.vscode-server/extensions
+2025-05-30 10:45:04.914 [info] ComputeTargetPlatform: linux-x64
+2025-05-30 10:45:04.924 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/itimbsb_221/.vscode-server/extensions
+2025-05-30 10:45:05.067 [info] [127.0.0.1][6c2f6885][ManagementConnection] New connection established.
+2025-05-30 10:45:05.293 [info] [127.0.0.1][d1742488][ExtensionHostConnection] New connection established.
+2025-05-30 10:45:05.996 [info] [127.0.0.1][d1742488][ExtensionHostConnection] <2832> Launched Extension Host Process.
+2025-05-30 10:45:06.649 [info] ComputeTargetPlatform: linux-x64
+2025-06-04 12:07:06.160 [info] [127.0.0.1][6c2f6885][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-06-04 12:07:06.281 [info] [127.0.0.1][d1742488][ExtensionHostConnection] <2832> Extension Host Process exited with code: 0, signal: null.
+2025-06-04 12:07:09.632 [info] [127.0.0.1][1aa3ffb3][ManagementConnection] New connection established.
+2025-06-04 12:07:10.039 [info] [127.0.0.1][7e9014e4][ExtensionHostConnection] New connection established.
+2025-06-04 12:07:10.054 [info] [127.0.0.1][7e9014e4][ExtensionHostConnection] <1292426> Launched Extension Host Process.
